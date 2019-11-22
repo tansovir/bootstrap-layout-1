@@ -1,0 +1,11 @@
+.carousel-inner{
+    height: 60%;
+    width: 100%;
+}
+.carousel-item{
+
+}
+.carousel-item img{
+    width: 100%;
+    height: 100%;
+}
